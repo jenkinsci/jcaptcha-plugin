@@ -36,7 +36,7 @@
   </parent>
 
   <artifactId>jcaptcha-plugin</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <name>JCaptcha Plugin</name>
@@ -62,9 +62,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkins/jcaptcha-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkins/jcaptcha-plugin.git</developerConnection>
-    <url>https://github.com/jenkins/jcaptcha-plugin</url>
+    <connection>scm:git:git://github.com/jenkinsci/jcaptcha-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/jcaptcha-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/jcaptcha-plugin</url>
   </scm>
 
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
