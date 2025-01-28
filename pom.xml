@@ -36,7 +36,7 @@
   </parent>
 
   <artifactId>jcaptcha-plugin</artifactId>
-  <version>${revision}${changelist}</version>
+  <version>${changelist}</version>
   <packaging>hpi</packaging>
 
   <name>JCaptcha Plugin</name>
@@ -70,7 +70,6 @@
   </pluginRepositories>
   
   <properties>
-    <revision>1.2</revision>
     <changelist>999999-SNAPSHOT</changelist>
     <gitHubRepo>jenkinsci/jcaptcha-plugin</gitHubRepo>
     <changelist>999999-SNAPSHOT</changelist>
