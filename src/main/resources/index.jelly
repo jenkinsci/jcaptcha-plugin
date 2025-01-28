@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+   JCaptcha provider of Jenkins CaptchaSupport.
+</div>
