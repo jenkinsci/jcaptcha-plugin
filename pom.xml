@@ -78,6 +78,7 @@
     <jenkins.baseline>2.528</jenkins.baseline>
     <jenkins.version>${jenkins.baseline}.3</jenkins.version>
     <ban-commons-lang-2.skip>false</ban-commons-lang-2.skip>
+    <ban-deprecated-stapler.skip>false</ban-deprecated-stapler.skip>
   </properties>
   <dependencyManagement>
     <dependencies>
