@@ -79,6 +79,7 @@
     <jenkins.version>${jenkins.baseline}.3</jenkins.version>
     <ban-commons-lang-2.skip>false</ban-commons-lang-2.skip>
     <ban-deprecated-stapler.skip>false</ban-deprecated-stapler.skip>
+    <banObsoleteDependencyOverrides.skip>false</banObsoleteDependencyOverrides.skip>
   </properties>
   <dependencyManagement>
     <dependencies>
